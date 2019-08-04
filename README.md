@@ -17,6 +17,7 @@ View the contribution guidelines for further information.
 
 ### Restrictions
 Companies which want to use this game need to pay following fees.
+
 |Teamsize|Cost per member in $|
 |--------|--------------------|
 |>1      |$ 2                 |
